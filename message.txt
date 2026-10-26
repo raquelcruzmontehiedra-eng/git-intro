@@ -1,2 +1,2 @@
 Change from feature branch
-New conflicting change from main
+Change from main
